@@ -114,4 +114,8 @@ p {
   .intro {
     font-size: 32px;
   }
+
+  .about-images {
+    margin-bottom: 30px;
+  }
 }
