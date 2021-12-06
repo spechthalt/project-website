@@ -84,19 +84,6 @@ p {
   text-decoration: underline;
 }
 
-@media screen and (max-width: 350px) {
-  .name {
-    font-size: 28px;
-  }
-  .intro {
-    font-size: 22px;
-  }
-
-  .title {
-    font-size: 18px;
-  }
-}
-
 @media (max-width: 576px) {
   h1 {
     font-size: 48px;
@@ -117,6 +104,10 @@ p {
     margin: 0 20px;
   }
   .contact-section h2 {
+    font-size: 32px;
+  }
+
+  .intro {
     font-size: 32px;
   }
 }
